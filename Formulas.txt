@@ -1,0 +1,3 @@
+Find LCM
+lcm = (a * b) / gcd(a, b);
+
